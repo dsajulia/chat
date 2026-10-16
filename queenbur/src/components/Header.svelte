@@ -7,7 +7,7 @@
 </header>
 <div class="flex items-center gap-4">
     <img 
-    src="seila.png"
+    src="queenbur/src/components/Captura de tela 2026-10-16 145755.png"
     alt="Logo"
     class="h-16 w-16 rounded full object-cover"
     />
